@@ -6,7 +6,10 @@ root 'home#index'
   # See how all your routes lay out with "rake routes".
 
   # You can have the root of your site routed with "root"
+<<<<<<< HEAD
+=======
 root 'welcome#index'
+>>>>>>> a87023ee850ec80f9a3757a34704ec9e5ed342a9
 
   # Example of regular route:
   #   get 'products/:id' => 'catalog#view'
